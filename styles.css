@@ -21,6 +21,7 @@ h1{
 .hny{
     background-image: url(https://i.gifer.com/4A5.gif);
       color:  #ff4c68;
+	background-repeat: repeat;
 }
 
 @media only screen and (max-width: 767px) {

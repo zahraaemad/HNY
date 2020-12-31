@@ -6,6 +6,7 @@ body {
   background-size: cover;
   background-color:#464646;
   background-size: 100%;
+  text-align: center;
 }
 
 h1{
@@ -17,11 +18,17 @@ h1{
   font-family: 'ABeeZee';
 }
 
+.hny{
+    background-image: url(https://i.gifer.com/4A5.gif);
+      color:  #ff4c68;
+}
+
 @media only screen and (max-width: 767px) {
   body {
     background-image: url(images/mobile-bg.jpg);
+
   }
-	  h1{
-      font-size:1.5rem;
+  h1{
+      font-size: 1.5rem;
   }
 	}

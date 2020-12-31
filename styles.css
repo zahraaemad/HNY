@@ -21,4 +21,7 @@ h1{
   body {
     background-image: url(images/mobile-bg.jpg);
   }
+	  h1{
+      font-size: 1.5rem;
+  }
 	}

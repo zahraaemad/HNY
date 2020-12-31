@@ -30,7 +30,8 @@ h1{
   }
   h1{
       font-size: 2rem;
-	padding:  50% 20%;  
+/* 	padding:  50% 20%;  */
+	   text-align: center;
 	  
   }
 	}
